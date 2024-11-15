@@ -1,3 +1,5 @@
 %syntax-version=1.0.0
 %project=cards
 %uri=https://github.com/zahraaahojati/cards/
+
+appschema 2024-11-15T20:01:56Z Zara Hojati <z1hojati@gmail.com> # Add schema for all card objects.
