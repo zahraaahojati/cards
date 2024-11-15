@@ -4,3 +4,4 @@
 
 appschema 2024-11-15T20:01:56Z Zara Hojati <z1hojati@gmail.com> # Add schema for all card objects.
 users [appschema] 2024-11-15T20:21:47Z Zara Hojati <z1hojati@gmail.com> # Creates table to track our users.
+scryfall_cards [appschema] 2024-11-15T20:54:54Z Zara Hojati <z1hojati@gmail.com> # Create scryfall cards table to store raw json from bulk data.
