@@ -1,6 +1,6 @@
 BEGIN;
 
-SELECT CmC
+SELECT nickname
   FROM cards.test
  WHERE FALSE;
 
