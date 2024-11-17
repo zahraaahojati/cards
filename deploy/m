@@ -1,6 +1,6 @@
 BEGIN;
 
-CREATE TABLE test (
+CREATE TABLE cards.test (
   SELECT 
     'cmc' AS CmC
 FROM 
